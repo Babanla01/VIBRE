@@ -1,0 +1,5 @@
+@media (max-width:976px){
+    .hero-img{
+        order: -1;
+    }
+}
